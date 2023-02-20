@@ -4,7 +4,7 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 
 
 1. Aux deux semaines, les mercredis de 12h à 13h
-2. En personne au CRD de St-Jean-sur-Richelieu ou en ligne, à [ce lien Zoom](https://umontreal.zoom.us/j/89884221721?pwd=bVNVTHV1SVZOVys1NVVtLytQU2M1dz09)
+2. En ligne, à [ce lien Zoom](https://umontreal.zoom.us/j/89884221721?pwd=bVNVTHV1SVZOVys1NVVtLytQU2M1dz09)
 
 <br>
 
