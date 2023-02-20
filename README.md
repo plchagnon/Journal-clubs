@@ -5,7 +5,7 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 
 1. Aux deux semaines, les mercredis de 12h à 13h
 2. En ligne, à [ce lien Zoom](https://umontreal.zoom.us/j/89884221721?pwd=bVNVTHV1SVZOVys1NVVtLytQU2M1dz09)
-3. Utiliser [ce lien](https://docs.google.com/forms/d/1Uzv7DKdrlzOP18TpX-zUiUvS3pmfjIjLl62P3eNzlkg/prefill) pour signaler votre intérêt à animer une discussion parmi les dates ci-dessous sur un sujet de votre choix
+3. Utiliser [ce lien](https://forms.gle/2yaCDAK7QYEc2hnx8) pour signaler votre intérêt à animer une discussion parmi les dates ci-dessous sur un sujet de votre choix
 
 <br>
 
