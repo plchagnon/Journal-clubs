@@ -13,23 +13,23 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 
 | Date | Thématique | Article ou autre document à consulter |
 |:---:|:--------------|:---------------------------------|
-|22 mars 2023|Traits microbiens et stabilisation matricielle du carbone|Sokol, N. W., Whalen, E. D., Jilling, A., Kallenbach, C., Pett‐Ridge, J., & Georgiou, K. (2022). Global distribution, formation and fate of mineral‐associated soil organic matter under a changing climate: A trait‐based perspective. [Functional Ecology, 36(6), 1411-1429.](https://doi.org/10.1111/1365-2435.14040)|
-|5 avril 2023|Sparse redundancy analysis|Csala, A., Voorbraak, F. P., Zwinderman, A. H., & Hof, M. H. (2017). Sparse redundancy analysis of high-dimensional genetic and genomic data. [Bioinformatics, 33(20), 3228-3234.](https://doi.org/10.1093/bioinformatics/btx374)|
-|19 avril 2023|Lois générales en écologie|Lawton, J. H. (1999). Are there general laws in ecology?. [Oikos, 177-192.](https://doi.org/10.2307/3546712), et considérer aussi [Hansson 2003 Oikos](https://doi.org/10.1034/j.1600-0706.2003.12479.x) et [Simberloff et al. 2004 Am nat](https://doi.org/10.1086/420777)|
-|3 mai 2023|||
-|17 mai 2023|||
-|31 mai 2023|||
-|14 juin 2023|||
-|28 juin 2023|||
-|12 juillet 2023|||
-|26 juillet 2023|||
-|9 août 2023|||
-|23 août 2023|||
-|6 septembre 2023|||
-|20 septembre 2023|||
-|4 octobre 2023|||
-|18 octobre 2023|||
-|1er novembre 2023|||
+|29 mars 2023|Traits microbiens et stabilisation matricielle du carbone|Sokol, N. W., Whalen, E. D., Jilling, A., Kallenbach, C., Pett‐Ridge, J., & Georgiou, K. (2022). Global distribution, formation and fate of mineral‐associated soil organic matter under a changing climate: A trait‐based perspective. [Functional Ecology, 36(6), 1411-1429.](https://doi.org/10.1111/1365-2435.14040)|
+|12 avril 2023|Sparse redundancy analysis|Csala, A., Voorbraak, F. P., Zwinderman, A. H., & Hof, M. H. (2017). Sparse redundancy analysis of high-dimensional genetic and genomic data. [Bioinformatics, 33(20), 3228-3234.](https://doi.org/10.1093/bioinformatics/btx374)|
+|26 avril 2023|Lois générales en écologie|Lawton, J. H. (1999). Are there general laws in ecology?. [Oikos, 177-192.](https://doi.org/10.2307/3546712), et considérer aussi [Hansson 2003 Oikos](https://doi.org/10.1034/j.1600-0706.2003.12479.x) et [Simberloff et al. 2004 Am nat](https://doi.org/10.1086/420777)|
+|10 mai 2023|||
+|24 mai 2023|||
+|7 mai 2023|||
+|21 juin 2023|||
+|5 juillet 2023|||
+|19 juillet 2023|||
+|2 août 2023|||
+|16 août 2023|||
+|30 août 2023|||
+|13 septembre 2023|||
+|27 septembre 2023|||
+|11 octobre 2023|||
+|25 octobre 2023|||
+|8 novembre 2023|||
 
 
 
