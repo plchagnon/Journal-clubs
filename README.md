@@ -19,9 +19,9 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |10 mai 2023|NanoSIMS et structure spatiale dans le sol|Vogel, C., Mueller, C. W., Höschen, C., Buegger, F., Heister, K., Schulz, S., ... & Kögel-Knabner, I. (2014). Submicron structures provide preferential spots for carbon and nitrogen sequestration in soils. [Nature Communications, 5(1), 2947.](https://www.nature.com/articles/ncomms3947)|
 |24 mai 2023|NA|NA|
 |7 juin 2023|Transparent data management during graduate studies|NA|
-|21 juin 2023|||
-|5 juillet 2023|||
-|19 juillet 2023|||
+|21 juin 2023|NA|NA|
+|5 juillet 2023|Amy presentation: topic to come...||
+|19 juillet 2023|Critical reading|Pretend you're asked to produce a paper review for [this paper](https://link.springer.com/article/10.1007/s00374-017-1217-x).|
 |2 août 2023|||
 |16 août 2023|||
 |30 août 2023|||
