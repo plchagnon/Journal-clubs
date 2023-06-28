@@ -20,7 +20,7 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |24 mai 2023|NA|NA|
 |7 juin 2023|Transparent data management during graduate studies|NA|
 |21 juin 2023|NA|NA|
-|5 juillet 2023|Amy presentation: efficient scientific communication|Iyengar & Massey (2018) Scientific communication in a post-truth society. [PNAS 116(16) 7656-7661](https://www.pnas.org/doi/full/10.1073/pnas.1805868115)|
+|5 juillet 2023|Amy presentation: efficient scientific communication|Iyengar, S. & Massey, D.S. (2018). Scientific communication in a post-truth society. [PNAS 116(16) 7656-7661](https://www.pnas.org/doi/full/10.1073/pnas.1805868115)|
 |19 juillet 2023|Critical reading|Pretend you're asked to produce a paper review for [this paper](https://link.springer.com/article/10.1007/s00374-017-1217-x).|
 |2 août 2023|||
 |16 août 2023|||
