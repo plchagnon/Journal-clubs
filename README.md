@@ -23,8 +23,8 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |12 juillet 2023|Amy presentation: efficient scientific communication|Iyengar, S. & Massey, D.S. (2018). Scientific communication in a post-truth society. [PNAS 116(16) 7656-7661](https://www.pnas.org/doi/full/10.1073/pnas.1805868115)|
 |26 juillet 2023|Critical reading|Pretend you're asked to produce a paper review for [this paper](https://link.springer.com/article/10.1007/s00374-017-1217-x).|
 |2 août 2023|Publish or perish?|[Rond & Miller 2005](https://journals.sagepub.com/doi/abs/10.1177/1056492605276850)|
-|16 août 2023|||
-|30 août 2023|||
+|16 août 2023|NA|NA|
+|30 août 2023|Null models|No reading for now... PL will send a markdown file...|
 |13 septembre 2023|||
 |27 septembre 2023|||
 |11 octobre 2023|||
