@@ -25,8 +25,8 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |2 août 2023|Publish or perish?|[Rond & Miller 2005](https://journals.sagepub.com/doi/abs/10.1177/1056492605276850)|
 |16 août 2023|NA|NA|
 |30 août 2023|Null models|No reading for now... PL will send a markdown file...|
-|13 septembre 2023|||
-|27 septembre 2023|||
+|13 septembre 2023|*P*-values|To be provided by Merlin soon...|
+|27 septembre 2023|Soil C saturation|? To be provided by Werbson?|
 |11 octobre 2023|||
 |25 octobre 2023|||
 |8 novembre 2023|||
