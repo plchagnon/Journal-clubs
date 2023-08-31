@@ -105,22 +105,18 @@ rand3=function(m){t(apply(m,1,xx))}
 <br>
 
 ```r
-### Define a function to apply to each row where we just resample each row vector
-xx=function(x){sample(x,length(x))}
-
-### Apply this to all rows in our matrix
 rand4=function(m){apply(m,2,xx)}
    
 ```
 
 <br>
 
-5. Finally, we might to constrain **both** rows and column totals. Here the package "bipartite" is quite useful because it has a built-in function that does so:
+5. Finally, we might to constrain **both** rows and column totals. Here the package "bipartite" is quite useful because it has a built-in function that does so (not 100% though):
 
 <br>
 
 ```r
-rand5=function(m){swap.web(1,m)}
+rand5=function(m){vaznull(1,m)}
 ```
 
 <br>
@@ -154,3 +150,12 @@ C_rand3=sapply(lapply(null_rand3,C.score),'[',1)
 C_rand4=sapply(lapply(null_rand4,C.score),'[',1)
 C_rand5=sapply(lapply(null_rand5,C.score),'[',1)
 ```
+
+<br>
+
+We can now visualize the distribution of values for random $C$-scores, and compare it to the observed value (0.56). Let's see how the null models compare to each other!
+
+The conclusion is quite alarming: depending on the null model, we can consider the $C$-score to be significantly lower than by chance ($z\le 1.96$), higher than by chance ($z\ge 1.96$) or not significantly different from random expectations ($z\in [-1.96,1.96]$). See a stats textbook if you can't remember what is a $z$-score...
+
+<p align="center"><img src="./C.score.pdf" width="670" height="380">
+</p>
