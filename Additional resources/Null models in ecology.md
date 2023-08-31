@@ -157,5 +157,5 @@ We can now visualize the distribution of values for random $C$-scores, and compa
 
 The conclusion is quite alarming: depending on the null model, we can consider the $C$-score to be significantly lower than by chance ($z\le 1.96$), higher than by chance ($z\ge 1.96$) or not significantly different from random expectations ($z\in [-1.96,1.96]$). See a stats textbook if you can't remember what is a $z$-score...
 
-<p align="center"><img src="./C.score.pdf" width="670" height="380">
+<p align="center"><img src="./C.score.png" width="670" height="200">
 </p>
