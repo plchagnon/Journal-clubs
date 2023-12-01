@@ -29,7 +29,7 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |8 novembre 2023|Soil C saturation|Barré, P., Angers, D. A., Basile-Doelsch, I., Bispo, A., Cécillon, L., Chenu, C., ... & Pellerin, S. (2017). Ideas and perspectives: Can we use the soil carbon saturation deficit to quantitatively assess the soil carbon storage potential, or should we explore other strategies?. [Biogeosciences Discussions, 1-12.](https://bg.copernicus.org/preprints/bg-2017-395/)|
 |22 novembre 2023|Ecosystem functions|Krohs, U., & Zimmer, M. (2023). Do ecosystems have functions?. [Ecology and Evolution, 13(9), e10458.](https://doi.org/10.1002/ece3.10458)|
 |6 décembre 2023|To come...|To come...|
-|20 décembre 2023|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. Nature communications, 13(1), 3867.)|
+|20 décembre 2023|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](https://doi.org/10.1038/s41467-022-31343-y)|
 |17 janvier 2024|||
 |31 janvier 2024|||
 |14 février 2024|||
