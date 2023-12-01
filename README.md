@@ -28,6 +28,12 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |13 septembre 2023|*P*-values|Amrhein, V., Greenland, S., & McShane, B. (2019). Scientists rise up against statistical significance. [Nature 567(7748), 305–307](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdoi.org%2F10.1038%2Fd41586-019-00857-9&data=05%7C01%7Cpierre-luc.chagnon%40agr.gc.ca%7Cee0253071d654a5ed57208dbafa1800a%7C9da98bb118574cc387519a49e35d24cd%7C0%7C0%7C638296880403598305%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tF%2BVgS9Lvln6wQfq%2FbAGY%2BvK6ss4O87DI6lmPK8YzRI%3D&reserved=0), <br><br> Carver, R. P. (1993). The Case against Statistical Significance Testing, Revisited. [The Journal of Experimental Education 61(4), 287–292](https://can01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.jstor.org%2Fstable%2F20152382&data=05%7C01%7Cpierre-luc.chagnon%40agr.gc.ca%7Cb82f0c83b52b4e05ae2808dbaf0b4604%7C9da98bb118574cc387519a49e35d24cd%7C0%7C0%7C638296235175995413%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=zIXV2Ku2Gw94pt0lTbYFZpY0hgKdbkH5%2BwZw2mTgpI0%3D&reserved=0)|
 |8 novembre 2023|Soil C saturation|Barré, P., Angers, D. A., Basile-Doelsch, I., Bispo, A., Cécillon, L., Chenu, C., ... & Pellerin, S. (2017). Ideas and perspectives: Can we use the soil carbon saturation deficit to quantitatively assess the soil carbon storage potential, or should we explore other strategies?. [Biogeosciences Discussions, 1-12.](https://bg.copernicus.org/preprints/bg-2017-395/)|
 |22 novembre 2023|Ecosystem functions|Krohs, U., & Zimmer, M. (2023). Do ecosystems have functions?. [Ecology and Evolution, 13(9), e10458.](https://doi.org/10.1002/ece3.10458)|
-|25 octobre 2023|||
-|8 novembre 2023|||
+|6 décembre 2023|To come...|To come...|
+|20 décembre 2023|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. Nature communications, 13(1), 3867.)|
+|17 janvier 2024|||
+|31 janvier 2024|||
+|14 février 2024|||
+|28 février 2024|||
+|13 mars 2024|||
+
 
