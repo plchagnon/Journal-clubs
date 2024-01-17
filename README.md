@@ -29,9 +29,9 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |8 novembre 2023|Soil C saturation|Barré, P., Angers, D. A., Basile-Doelsch, I., Bispo, A., Cécillon, L., Chenu, C., ... & Pellerin, S. (2017). Ideas and perspectives: Can we use the soil carbon saturation deficit to quantitatively assess the soil carbon storage potential, or should we explore other strategies?. [Biogeosciences Discussions, 1-12.](https://bg.copernicus.org/preprints/bg-2017-395/)|
 |22 novembre 2023|Ecosystem functions|Krohs, U., & Zimmer, M. (2023). Do ecosystems have functions?. [Ecology and Evolution, 13(9), e10458.](https://doi.org/10.1002/ece3.10458)|
 |6 décembre 2023|Multiscale biodiversity feedbacks <br> + <br> Quarto|Zobel, M., Moora, M., Pärtel, M., Semchenko, M., Tedersoo, L., Öpik, M., & Davison, J. (2023). The multiscale feedback theory of biodiversity. [Trends in Ecology & Evolution, 38(2), 171-182.](https://doi.org/10.1016/j.tree.2022.09.008)|
-|20 décembre 2023|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](https://doi.org/10.1038/s41467-022-31343-y)|
-|17 janvier 2024|||
-|31 janvier 2024|||
+|20 décembre 2023|NA|NA|
+|17 janvier 2024|NA|NA|
+|31 janvier 2024|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](https://doi.org/10.1038/s41467-022-31343-y)|
 |14 février 2024|||
 |28 février 2024|||
 |13 mars 2024|||
