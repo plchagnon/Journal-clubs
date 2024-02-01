@@ -32,7 +32,7 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |20 décembre 2023|NA|NA|
 |17 janvier 2024|NA|NA|
 |31 janvier 2024|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](https://doi.org/10.1038/s41467-022-31343-y)|
-|14 février 2024|Generating/working with <sup>13</sup>C-labeled plants|Bromand, S., Whalen, J. K., Janzen, H. H., Schjoerring, J. K., & Ellert, B. H. (2001). A pulse-labelling method to generate 13C-enriched plant materials. [Plant and Soil, 235, 253-257.](https://doi.org/10.1023/A:1011922103323)|
+|14 février 2024|Generating/working with <sup>13</sup>C-labelled plants|Bromand, S., Whalen, J. K., Janzen, H. H., Schjoerring, J. K., & Ellert, B. H. (2001). A pulse-labelling method to generate 13C-enriched plant materials. [Plant and Soil, 235, 253-257.](https://doi.org/10.1023/A:1011922103323)|
 |28 février 2024|||
 |13 mars 2024|||
 
