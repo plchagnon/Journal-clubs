@@ -33,7 +33,10 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |17 janvier 2024|NA|NA|
 |31 janvier 2024|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](https://doi.org/10.1038/s41467-022-31343-y)|
 |14 février 2024|Generating/working with <sup>13</sup>C-labelled plants|Bromand, S., Whalen, J. K., Janzen, H. H., Schjoerring, J. K., & Ellert, B. H. (2001). A pulse-labelling method to generate 13C-enriched plant materials. [Plant and Soil, 235, 253-257.](https://doi.org/10.1023/A:1011922103323)|
-|28 février 2024|||
-|13 mars 2024|||
+|28 février 2024|Metacommunities|Leibold, M. A., Holyoak, M., Mouquet, N., Amarasekare, P., Chase, J. M., Hoopes, M. F., ... & Gonzalez, A. (2004). The metacommunity concept: a framework for multi‐scale community ecology. [Ecology letters, 7(7), 601-613.](https://doi.org/10.1111/j.1461-0248.2004.00608.x)|
+|13 mars 2024|Multivariate stats in microbial ecology|Paliy, O., & Shankar, V. (2016). Application of multivariate statistical techniques in microbial ecology. [Molecular ecology, 25(5), 1032-1057.](https://doi.org/10.1111/mec.13536)|
+|10 avril 2024|||
+|24 avril 2024|||
+
 
 
