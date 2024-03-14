@@ -35,8 +35,8 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |14 février 2024|Generating/working with <sup>13</sup>C-labelled plants|Bromand, S., Whalen, J. K., Janzen, H. H., Schjoerring, J. K., & Ellert, B. H. (2001). A pulse-labelling method to generate 13C-enriched plant materials. [Plant and Soil, 235, 253-257.](https://doi.org/10.1023/A:1011922103323)|
 |28 février 2024|Metacommunities|Leibold, M. A., Holyoak, M., Mouquet, N., Amarasekare, P., Chase, J. M., Hoopes, M. F., ... & Gonzalez, A. (2004). The metacommunity concept: a framework for multi‐scale community ecology. [Ecology letters, 7(7), 601-613.](https://doi.org/10.1111/j.1461-0248.2004.00608.x)|
 |13 mars 2024|Multivariate stats in microbial ecology|Paliy, O., & Shankar, V. (2016). Application of multivariate statistical techniques in microbial ecology. [Molecular ecology, 25(5), 1032-1057.](https://doi.org/10.1111/mec.13536)|
-|10 avril 2024|||
-|24 avril 2024|||
+|10 avril 2024|Base R|Link to come...|
+|24 avril 2024|Fungal contribution to plant nutrient foraging|Eissenstat, D. M., Kucharski, J. M., Zadworny, M., Adams, T. S., & Koide, R. T. (2015). Linking root traits to nutrient foraging in arbuscular mycorrhizal trees in a temperate forest. [New Phytologist, 208(1), 114-124.](https://doi.org/10.1111/nph.13451) <br><br> Liu, B., Li, H., Zhu, B., Koide, R. T., Eissenstat, D. M., & Guo, D. (2015). Complementarity in nutrient foraging strategies of absorptive fine roots and arbuscular mycorrhizal fungi across 14 coexisting subtropical tree species. [New Phytologist, 208(1), 125-136.](https://doi.org/10.1111/nph.13434)|
 
 
 
