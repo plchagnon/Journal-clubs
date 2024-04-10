@@ -29,11 +29,14 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |8 novembre 2023|Soil C saturation|Barré, P., Angers, D. A., Basile-Doelsch, I., Bispo, A., Cécillon, L., Chenu, C., ... & Pellerin, S. (2017). Ideas and perspectives: Can we use the soil carbon saturation deficit to quantitatively assess the soil carbon storage potential, or should we explore other strategies?. [Biogeosciences Discussions, 1-12.](https://bg.copernicus.org/preprints/bg-2017-395/)|
 |22 novembre 2023|Ecosystem functions|Krohs, U., & Zimmer, M. (2023). Do ecosystems have functions?. [Ecology and Evolution, 13(9), e10458.](https://doi.org/10.1002/ece3.10458)|
 |6 décembre 2023|Multiscale biodiversity feedbacks <br> + <br> Quarto|Zobel, M., Moora, M., Pärtel, M., Semchenko, M., Tedersoo, L., Öpik, M., & Davison, J. (2023). The multiscale feedback theory of biodiversity. [Trends in Ecology & Evolution, 38(2), 171-182.](https://doi.org/10.1016/j.tree.2022.09.008)|
-|20 décembre 2023|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](https://doi.org/10.1038/s41467-022-31343-y)|
-|17 janvier 2024|||
-|31 janvier 2024|||
-|14 février 2024|||
-|28 février 2024|||
-|13 mars 2024|||
+|20 décembre 2023|NA|NA|
+|17 janvier 2024|NA|NA|
+|31 janvier 2024|Co-occurrence networks|Gao, C., Xu, L., Montoya, L., Madera, M., Hollingsworth, J., Chen, L., ... & Taylor, J. W. (2022). Co-occurrence networks reveal more complexity than community composition in resistance and resilience of microbial communities. [Nature communications, 13(1), 3867.](https://doi.org/10.1038/s41467-022-31343-y)|
+|14 février 2024|Generating/working with <sup>13</sup>C-labelled plants|Bromand, S., Whalen, J. K., Janzen, H. H., Schjoerring, J. K., & Ellert, B. H. (2001). A pulse-labelling method to generate 13C-enriched plant materials. [Plant and Soil, 235, 253-257.](https://doi.org/10.1023/A:1011922103323)|
+|28 février 2024|Metacommunities|Leibold, M. A., Holyoak, M., Mouquet, N., Amarasekare, P., Chase, J. M., Hoopes, M. F., ... & Gonzalez, A. (2004). The metacommunity concept: a framework for multi‐scale community ecology. [Ecology letters, 7(7), 601-613.](https://doi.org/10.1111/j.1461-0248.2004.00608.x)|
+|13 mars 2024|Multivariate stats in microbial ecology|Paliy, O., & Shankar, V. (2016). Application of multivariate statistical techniques in microbial ecology. [Molecular ecology, 25(5), 1032-1057.](https://doi.org/10.1111/mec.13536)|
+|10 avril 2024|In-house R workshop|Link to come...|
+|24 avril 2024|Fungal contribution to plant nutrient foraging|Eissenstat, D. M., Kucharski, J. M., Zadworny, M., Adams, T. S., & Koide, R. T. (2015). Linking root traits to nutrient foraging in arbuscular mycorrhizal trees in a temperate forest. [New Phytologist, 208(1), 114-124.](https://doi.org/10.1111/nph.13451) <br><br> Liu, B., Li, H., Zhu, B., Koide, R. T., Eissenstat, D. M., & Guo, D. (2015). Complementarity in nutrient foraging strategies of absorptive fine roots and arbuscular mycorrhizal fungi across 14 coexisting subtropical tree species. [New Phytologist, 208(1), 125-136.](https://doi.org/10.1111/nph.13434)|
+
 
 
