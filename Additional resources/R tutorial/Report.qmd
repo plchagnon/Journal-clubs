@@ -1,0 +1,201 @@
+---
+title: "Basics with R"
+format: 
+    html:
+        code-fold: false
+execute:
+    eval: true
+theme: 
+  - cosmo
+  - Quarto_custom.css
+---
+
+<br>
+
+R is a powerful programming environment. As long as you can handle basic syntax operations. Many packages are built-in to conduct some object transformations, but nothing replaces efficient handling of raw commands. Somewhere down the line, you **will want** to do something that is not already implemented in a pre-digested tutorial or package.
+
+# Loops
+
+The very concept of loops is very simple. You have something you want to do in a repetitive manner ($n$ times), and you don't want to write down the code $n$ times. All you have to do is to build a loop that will do that for you! Let's start simple. Say you have a vector of 10 values. This vector will be called $x$. For each of these $i^{th}$ values in $x$, you want the value to be twice the preceding value. Let's say you start with ``x[1] = 1``, and you will want ``x[2]`` to be 2, ``x[3]`` to be 4, and so on... All you have to do is:
+
+```{r}
+# Create the empty vector of length 10
+x=numeric(10)
+# Set the first value of the vector to 1
+x[1]=1
+# do the loop
+for(i in 2:10){x[i]=x[i-1]*2}
+print(x)
+```
+
+You don't necessarily have to use $i$ as your reference letter for the loop! It's just something commonly done, but you could chose to use any character:
+```{r}
+# Create the empty vector of length 10
+x=numeric(10)
+# Set the first value of the vector to 1
+x[1]=1
+# do the loop
+for(n in 2:10){x[n]=x[n-1]*2}
+print(x)
+```
+
+Or any suite of characters really:
+
+```{r}
+# Create the empty vector of length 10
+x=numeric(10)
+# Set the first value of the vector to 1
+x[1]=1
+# do the loop
+for(potato in 2:10){x[potato]=x[potato-1]*2}
+print(x)
+```
+
+Your loop also does not need to be run in a continuous manner. Say, for some reason, you would only want to conduct some mathematical operation to a subset of values in your vector. Take, for example, a vector x ``x=1:10``, and a vector y, ``y=x``. Suppose you would like you odd numbers to be twice the value they currently have. So you would like 1 to become 2, 3 to become 6, and so on...
+
+
+```{r}
+x=1:10
+y=x
+for(i in c(1,3,5,7,9)){y[i]=2*y[i]}
+print(x)
+print(y)
+```
+
+Or if you want to avoid typing by hand the odd numbers yourself, you can use ``distillery``:
+
+```{r}
+library(distillery)
+x=1:10
+y=x
+for(i in x[is.odd(x)]){y[i]=2*y[i]}
+print(x)
+print(y)
+```
+
+*** This package returns a series of logical as to whether each value in the vector you return is odd, or not.
+
+```{r}
+library(distillery)
+x=1:10
+print(is.odd(x))
+```
+
+Then, if you subset the vector ``x`` based on this series of TRUES or FALSES:
+
+```{r}
+condition=is.odd(x)
+print(x[condition])
+```
+
+# Applying the same thing repeatedly to units of an R object using ``apply``
+
+In many instances, you will want to repeat a given operation to several rows, or columns, in a matrix. For example, you may have a metacommunity (i.e., a sp $\times$ sites matrix, with sites as rows). You could be interested in conducting a Hellinger transformation on that matrix. [Hellinger transformation](https://link.springer.com/article/10.1007/s004420100716) is a simple data transformation that transforms relative abundanced into their root-squared values. Let's first define a function to do it to a *single vector*:
+
+```{r}
+Hel=function(x){(x/sum(x))^.5}
+```
+Now, let's say we have this community of fungi in the roots of this maple seedling, and we want these data "Hellinger-tranformed":
+
+```{r}
+comm=c(1,13,2,4,8,37,400)
+Hel_comm=Hel(comm)
+print(Hel_comm)
+```
+This is simple, but now how to repeat the process for all of our several seedlings we collected in the field, and for which we have the exact same type of communities? We just saw loops, we could easily do it by looping, repeat the ``Hel`` function to every single $i^{th}$ row in our $i$-rows metacommunity matrix. Let's say $i=5$ (we're poor and only sampled 5 seedlings), and the number of fungal species detected (number of columns), is 10 ($j=10$, since general matrix nomenclature uses $j$ for columns...):
+
+```{r}
+metacom=matrix(c(round(rlnorm(10,1,3)),round(rlnorm(10,1,3)),round(rlnorm(10,1,3)),round(rlnorm(10,1,3)),round(rlnorm(10,1,3))),nc=10,byrow=T)
+print(metacom)
+met_hel=metacom
+for(i in 1:nrow(metacom)){met_hel[i,]=Hel(metacom[i,])}
+print(round(met_hel,digits=2))
+```
+In theory, this works just fine. In practice, whenever you have some tasks that are much more computationnally intensive then this example (e.g., a very large dataset, or a function much more complex), the loop is a time constraint: it's just slower...What real programmers will advise is to use ``apply``, which can parallelize the tasks:
+
+```{r}
+met_hel2=t(apply(metacom,1,Hel))
+print(round(met_hel2,digits=2))
+```
+Basically, here it made no difference, running was fast either way... but sometimes, it's not impossible that you could benefit of ``apply``. The syntax is very simple, you have:
+
+1. First argument is the object on which you want to apply the same function iteratively
+2. Second, on what "margin" you want it applied (rows, columns, or both? 1=rows here, 2 would have been columns...)
+3. What function do you want applied to every single row, in this case? Our pre-defined ``Hel`` function, in our case...
+
+And that is all there is to it. That simple!
+
+
+
+
+# ``Apply`` for loops
+
+A very convenient way of using ``apply`` is when you work with complex string characters. Even if many good people warn researchers against these sample names that are so deeply coded that it's very likely to get some mistake introduced during transcription on bottles, bags, excel sheets, etc... people still use some sample code like "East_10_N_night_ww". You'll get the same problem with ``.fastq`` read files that come back from the sequencing facility, with a long character string provided by the sequencer, and at some point, the sample name YOU gave, and an extension like "[...].R1.fastq.gz". Say you would like to extract some information of these coded names... Say in your dataset containing your sample that look like "East_10_N_night_ww", you would only want the samples taken on the East side of the mountain... easy with ``apply``!
+
+```{r}
+names=c("East_20_N_night_ww","East_10_N_night_ww","West_20_N_night_ww","West_10_N_night_ww")
+
+# Sort down individual info with strsplit
+x=strsplit(names,"_")
+
+print(x)
+```
+
+OK, ``strsplit`` is a VERY HANDY function, I hope you saw that right there!! So at least, if someone convinced you to adopt this sub-par practice of coding your sample names that way, make sure they are coded with codes separated by a standard character, like "_"! This way, you can tease apart these sources of information easily using ``strsplit``, which separates a vector based on set of characters it recognizes within the vector. 
+
+Now, in our case, it's fairly simple, we want to extract the first items for all vectors in this list ``x`` of length = 4.
+
+```{r}
+east_west=sapply(x,'[',1)
+print(east_west)
+```
+
+That's it! So now, we could simply filter our initial sample names, keeping only those for which ``east_west=="East"``
+
+```{r}
+names[east_west=="East"]
+```
+If we wanted the reverse, we could make use of the very handy exclamation mark (!), which mean **NOT**:
+
+```{r}
+names[!east_west=="East"]
+```
+And we do get now the West samples! Easy right?
+
+
+# Filtering datasets
+
+I'm an old school fellow, who missed the ``dplyr`` and ``tidyvers`` waves. But in the end, while you should definitely master those packages, you could also benefit mastering raw filtering of your datasets based on common commands and logicals. Let's take this dataset as an example:
+
+```{r}
+data=read.table("../../../Bureau/roofs.txt",header=T)
+print(data)
+```
+
+Now, some filtering will be quite easy. Say you want sites with pH above 6.5:
+
+```{r}
+data[data$pH>6.5,]
+```
+This all works on series of TRUEs and FALSEs:
+
+```{r}
+data$pH>6.5
+```
+If you subset the object ``data`` based on this logic vector (here subsetting ROWS, because our logic condition is BEFORE the comma ","), it will keep only rows for which the condition is set to "TRUE".
+
+Now, how about a **combination** of conditions? Say we want sites that are (1) roofs, and (2) have pH > 6.5: 
+
+```{r}
+data[data$pH>6.5 & data$habitat=="toit",]
+```
+
+<br> The possibilities for combinations of conditions is endless, so you can keep enumerating conditions, separated by "&" as you wish...
+
+Now, let's say, for this subset of your dataset, you would like to correlate moisture with phosphorus:
+
+```{r}
+sub=data[data$pH>6.5 & data$habitat=="toit",2:3]
+par(mar=c(5,6,4,2),family="serif")
+plot(sub[,1]~sub[,2],pch=21,bg="#174D8A80",col=NA,cex=2.5,xlab="Phosphorus",ylab="Moisture",cex.lab=1.5)
+```

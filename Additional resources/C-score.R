@@ -34,19 +34,29 @@ C_rand5=sapply(lapply(null_rand5,csc),'[',1)
 
 #### Density plots
 
-dp=function(x){
-	hist(x,nclass=50,main="",ylab="Frequency",xlab=expression(italic(C)~" - score"),col="#5280A4",border="#13466E",yaxs="i",xlim=c(0,1),ylim=c(0,.2*length(x)))
+dp=function(x,main,ml){
+	cx=14
+	z=(0.56-mean(x))/sd(x)
+	par(mar=c(5,ml,4,1),family="raleway")
+	hist(x,nclass=15,cex.axis=cx,cex.main=cx,main=main,ylab="Frequency",xlab=expression(italic(C)~" - score"),col=NA,border=NA,yaxs="i",xlim=c(0,1),ylim=c(0,250),cex.lab=cx)
+	rect(-5,-5,5,1000,col="grey97",border=NA)
+	hist(x,add=T,nclass=20,col="#5280A4",border="#13466E")
 	abline(v=.56,lty=2,lwd=1.3,col="black")
+	text(0,220,pos=4,bquote(italic(z)~" = "~.(round(z,2))),cex=cx)
 	box()}
 
 library(showtext)
 showtext_auto()
-par(mfrow=c(1,5),family="raleway")
-dp(C_rand1)
-dp(C_rand2)
-dp(C_rand3)
-dp(C_rand4)
-dp(C_rand5)
+
+png("C.score.png",res=1200,units="in",height=2.75,width=9)
+layout(matrix(1:5,nc=5),widths=c(1.15,1,1,1,1))
+dp(C_rand1,"rand1",4)
+dp(C_rand2,"rand2",2)
+dp(C_rand3,"rand3",2)
+dp(C_rand4,"rand4",2)
+dp(C_rand5,"rand5",2)
+dev.off()
+
 
 
 
