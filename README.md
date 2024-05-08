@@ -37,7 +37,7 @@ L'idée de ces journal clubs est d'aborder une gamme de sujet pertinents en éco
 |13 mars 2024|Multivariate stats in microbial ecology|Paliy, O., & Shankar, V. (2016). Application of multivariate statistical techniques in microbial ecology. [Molecular ecology, 25(5), 1032-1057.](https://doi.org/10.1111/mec.13536)|
 |10 avril 2024|In-house R workshop|Link to come...|
 |24 avril 2024|Fungal contribution to plant nutrient foraging|Eissenstat, D. M., Kucharski, J. M., Zadworny, M., Adams, T. S., & Koide, R. T. (2015). Linking root traits to nutrient foraging in arbuscular mycorrhizal trees in a temperate forest. [New Phytologist, 208(1), 114-124.](https://doi.org/10.1111/nph.13451) <br><br> Liu, B., Li, H., Zhu, B., Koide, R. T., Eissenstat, D. M., & Guo, D. (2015). Complementarity in nutrient foraging strategies of absorptive fine roots and arbuscular mycorrhizal fungi across 14 coexisting subtropical tree species. [New Phytologist, 208(1), 125-136.](https://doi.org/10.1111/nph.13434)|
-|22 mai 2024|Tipping points in ecology|Dakos, V., & Bascompte, J. (2014). Critical slowing down as early warning for the onset of collapse in mutualistic communities. [Proceedings of the National Academy of Sciences, 111(49), 17546-17551](Dakos, V., & Bascompte, J. (2014). Critical slowing down as early warning for the onset of collapse in mutualistic communities. Proceedings of the National Academy of Sciences, 111(49), 17546-17551.)|
+|22 mai 2024|Tipping points in ecology|Dakos, V., & Bascompte, J. (2014). Critical slowing down as early warning for the onset of collapse in mutualistic communities. [Proceedings of the National Academy of Sciences, 111(49), 17546-17551](https://doi.org/10.1073/pnas.1406326111)|
 |5 juin 2024|||
 |19 juin 2024|||
 |17 juillet 2024|||
